@@ -1,0 +1,1 @@
+shoppingList = {"produce": ["iceberg lettuce", "arugula", "carrots", "beets"], "meat":  , "dairy":  ,"carbs": }
